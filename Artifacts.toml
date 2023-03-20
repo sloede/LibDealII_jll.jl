@@ -1,0 +1,24 @@
+[[LibDealII]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1b00019984587a971c7bce8ef24e6441a0ec80e4"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[LibDealII.download]]
+    sha256 = "4e2a7d4821af84b7eb4d66a370dc5d192ef9edb95b886390296bbce41e794422"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.0+0/LibDealII.v0.1.0.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[LibDealII]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c855f827ec39e81b2b30c1ce9a8ce99697e933a7"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[LibDealII.download]]
+    sha256 = "65712639818ec2f182930c33181e5aa15851ecdc1137329dba6976437f2c7b0b"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.0+0/LibDealII.v0.1.0.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
