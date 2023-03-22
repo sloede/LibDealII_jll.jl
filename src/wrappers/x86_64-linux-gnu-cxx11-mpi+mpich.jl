@@ -4,7 +4,6 @@ export libdealii
 using P4est_jll
 using dealII_jll
 using MPICH_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("LibDealII")
 JLLWrappers.@declare_library_product(libdealii, "libdealii.so")
 function __init__()
