@@ -1,278 +1,278 @@
 [[LibDealII]]
 arch = "aarch64"
-git-tree-sha1 = "834f6e8d38653f4d36e0e21b5f321fe6981d286f"
+git-tree-sha1 = "6db381a00b7ad55d7d22aa1739679047c90e0f82"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[LibDealII.download]]
-    sha256 = "a6f0c4b99726078e2ded7c52236748c80e96fb3e55e880a2e3ec44635a81d444"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "143f154d22233609449e9f935c9fb04e16ca4c5dbc668526cd47a0c62ffd9977"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "47bd38aa3ddfb253a56527bc708aaaf019bf5928"
+git-tree-sha1 = "80877bdef01ccc1527845725c0af3d4f68703699"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "b551463692145cc6a782697be30c3137d3d28b63146eaa84aca6b2bbea7a8e98"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "885fef7416e82a55ae13a84c991427f37ff7a78650ec41048a0c3aec81ff17cf"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "770b39fadde418022965afec36c1feeda7f6d4ae"
+git-tree-sha1 = "7ccd14c0a7e1c28b8457d69e81c63440f8d4fcf8"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "61c8ac796539523dae55f665e4367db2c6c24d8f2eeebd54d1af2f2d8da94351"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "aa04e771e8a6f8a55a7e9bbc7e38fa5a06749f9be6a649776fd2021579aa24de"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "780891125417e689157174b9ebfffe55019e3f41"
+git-tree-sha1 = "91695e1571e6f33c6fb3250c8696cb616876e355"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "eb35eb02490091209d2c9c230efacbf6bb5ecbc7b9bb61a93c91ff309aaf1916"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "94b1ba653ab516792384ceb897bd4ba4729d071fb55817a95872ceb84f300622"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c22889e50490d257d1475ddfae96bf1930ad486e"
+git-tree-sha1 = "f77a484b19d0370124707d9d8ef0e261166a9a36"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "10a6fb083d66ac344995e2f583e0557625ca1d51a0b94e221e39c4a07da4f982"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "f2b63f44be26350541abb57e066b312aa11492475809d199a4bd26d17e0517eb"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "07b81703b960800bdc905d8845e6848d97102eb0"
+git-tree-sha1 = "1ec9e23f66ae075b972cb5ea4506581cf2fe7cb4"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "5b1474b410a1c6c80a454f19e2e526e2474d29aceb048585830904948b1c4823"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "deb45b4f5ebba129aae425541b3dc10354bff1810ea09253aecba4539f37973f"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9cb9e54f5ffbfecf696455cf53a17d86a693e494"
+git-tree-sha1 = "d7eb1fef1b46be3c5c566040f71a8f8fedec6070"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "55de9b4d4f1ac18ed3cc5ae2bc61756787a89856b753934b53e6539364c01af4"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "ada9b1eae8d80d4e08e3d19203a80b6c3b8b5e7554ec13a10acc6a0594f65b6c"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0cb5329cccd6358281c7885bb2d75d34cc5983be"
+git-tree-sha1 = "1aa11b5f4d086efcf6dcd645e44baf9e53774640"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "c875df41b0b451cc6df3db7861f8140bd4463c8e13f7cc2c045564f98a82d43c"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "441b8e3912bd8f4f0223d3e1c920beeea386aeb035d5361b65750bbf52757471"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "642c4695929e9b50e149717f30acddfcce323f75"
+git-tree-sha1 = "8455b3af8a956f6b3f7679e5a543b45e2c41cf06"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "14e526602d115689eceb949f91298ed3d8ca69f22fa35344f5f40f6eafbce471"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "25e7fd5f6f1dd843474c264265c61ddb78528742933c0b14d85d2791d3a0834c"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dce86929b2fb1f79efabbe8a998768e5d48f6ece"
+git-tree-sha1 = "32fd69d7053f6e986d2002caafdd5391ba4d2851"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "cf4639e4caf62fa23f612ea9da1fe220bc6d83f1582f31a5b9a4b8226e2da800"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "4bd2d99f1ac82f206e2b54689dfd862fbbaef700822ff9bbfe3c41ed4cd44979"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9caa69f40536e0060183b2b5d36f14c7f5f670fc"
+git-tree-sha1 = "542a49b9402877b41728d82f1b4714b33be808d9"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "fd88a71bad55809b74cf1afc3be6ae7fb390f71c20dd0713a6469f73095bfc76"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "e585fab919a8d0794741037df666a8e1c30e8c7f8edaf49f9e36468ac2c010ff"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f4421b00c2ecad51151404ef737d9bdaced381fd"
+git-tree-sha1 = "e9805077aa39305f60e721f867fa7852636af621"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "0e8d48fec49f9a98bb25ab9dc2051311bf5c0a280cd417a8c8df2320a342664d"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "4d8c4244bceec9bd01ead46dc203810edf5ef953c18aa3b3c8c977831a444b7c"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7defd1813dc5b103f526128a2dfc6c55cbe8916f"
+git-tree-sha1 = "223fbe7696d5e418a2b207375d674d1eee101a6b"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "4851d479f499ea556a7c88a35114d8993e8a429b39ae1353211b955290a78dd4"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "fc89e1397b22d81c4dddaba9fbc061c1e58b4e215d7ef2d8636125797984a074"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "597401275751769b5da855c4f8601a4f85e4ab3a"
+git-tree-sha1 = "0b40e1395f04cd0b2b54c9d5cfb7d3a364f235c0"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "8c83ae42d6bf7e0e598c1000a0f0296b3e8b3a5c575c1f71254b76d9d161a2c8"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "27e18acc6c5f76aa79c6ddc6c6a6f55e780cd8998376bd51e636e9a45eb6faf3"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6498bcc0cd8c98ce53fc5694767177705081dc8d"
+git-tree-sha1 = "4861a6369dbedfce8da8db02dd8c7b391d43ed46"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "ff651e71feda0f1314a8caee8a81c1d2b3ce61285a8a3004e1b1d6c865ac5c23"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "68411c4a515f63cca8c622e6443f48c8e3762b542923577826b56dbf7e2af258"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c0786f8d8df9b4add5e722259791ea40d3889435"
+git-tree-sha1 = "ef7d69a64c4718ef5f582f87d8d0c141c6552221"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "568732d05140542bb63a080c9aa597ede8a90e27419e5f373a2edc559b71fe8b"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "3b964e54b7a68a64e9dc78e763e5f2b3dfd699ba5588619dd6562b7629694fce"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be5207dc7f4eff58ccafc065faf305873422ef09"
+git-tree-sha1 = "3cd9fda057448d31d18ad13d94597f3c6af8566c"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "b9127b37bb0d079353fe7ed3e22a7c197190223fddb5a10ad353a44006521d15"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "ae808879512009315f8bc461920615605263e50d32fbfa14d0ebe7ced5f477af"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "x86_64"
-git-tree-sha1 = "171d39c7d6cef8442fc387cf87d89ca90745f439"
+git-tree-sha1 = "92c8fd25628b913a9c8aae8e946a76e28b505c99"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[LibDealII.download]]
-    sha256 = "578f768e11175ee71cf490a725ec7791297a2c0297f2f648a2783bde07594cd4"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "ce2e60ffe2760c23a49530d80aef2c5b44f5a6e9a72cce561ab740d719249406"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "31234d0c0c25133cbcacab77853d29c31430ecf4"
+git-tree-sha1 = "565721385eb967860aa8fff2e55c6bd966ca2c3e"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "1fabbfcd8bb4c36784693e7601a39d28e58a5161c240a746a7dbe511493a4746"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "9f5f35791a8a752365a72eb7582f666a79cfc8df8ff4defce568cdbfad7afcc9"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9040dc9f7ae8f9b1bbb63703094b20d75baa5a3"
+git-tree-sha1 = "961506ce0a7228de2d72138106c1d6cdb5803927"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "d2dd65bfcb56fceb0011ea3ff5a37a2802b6fd5267af9cc8057d0b9d34eddfd5"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "f300f47311aa1e463452c13cdf344343464d4da1831d844a4730126395735e5d"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b5124d2c09376b8270d895033306c032ee0037d3"
+git-tree-sha1 = "306c01140342b3506f941286b078947c3d29392d"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "088c03d63e1848e6fb8e554998c9f0a40c50f6f3000339dd49f811ad8e7ad5aa"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "d10e5528a46998ff10fc3f77759c262ce28a9070fc1851fe8424b7f24b0b4e9e"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b1f58fab5ce17e91155ca53744ac5b28c9830f4d"
+git-tree-sha1 = "d931c806ff9c5f938b8319aaf0ca2795d9b64f28"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[LibDealII.download]]
-    sha256 = "1b537f22968eba68023abf64bebb361e2825ab53c1034ba2a2168f39b2057953"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "af60f8f5a2296ea058099829a28fc01cf1b5f03b1a5152226c95c397e9fa0de5"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[LibDealII]]
 arch = "x86_64"
-git-tree-sha1 = "b761a9b1cc0f4884b16b43e88cd45a554e4ff8bd"
+git-tree-sha1 = "0fb740a70c493029daec8f3ac2ea1cdeceff0ba0"
 lazy = true
 mpi = "mpich"
 os = "freebsd"
 
     [[LibDealII.download]]
-    sha256 = "c09267c367e7e632e515d0e86e82c360f88c22eb1c33de93bb7befe9a9d82334"
-    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.1+0/LibDealII.v0.1.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "3043ae180b156f627c9d1ed518ab27e758ee670b69ab1fc734dbd694c4992282"
+    url = "https://github.com/sloede/LibDealII_jll.jl/releases/download/LibDealII-v0.1.2+0/LibDealII.v0.1.2.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
